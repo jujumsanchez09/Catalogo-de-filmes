@@ -1,0 +1,16 @@
+body {
+    background:rgb(77, 8, 8);
+   color:Whitestone;
+}
+
+header{
+  text-aling: center;
+  font-size: 50px;
+  border-bottom: solid 3px whitesmoke;
+  margin-left: 80;
+  margin-left: 80; 
+}
+
+section {
+    display: flex;
+}
