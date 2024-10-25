@@ -1,16 +1,25 @@
 body {
-    background:rgb(77, 8, 8);
-   color:Whitestone;
+    background:rgb(62, 62, 233);
+    color: whitesmoke;
 }
 
 header{
-  text-aling: center;
+  text-align: center;
   font-size: 50px;
   border-bottom: solid 3px whitesmoke;
   margin-left: 80;
   margin-left: 80; 
+  font-family:"Modak", system-ui;
 }
 
-section {
-    display: flex;
+section{
+  display: flex;
+  background-color: black 
+  padding-bottom: 80px;
+  margin-top: 20px;
+  justify-content: center;
 }
+
+.chamada-texto{
+  margin-right: 3%;
+}  
